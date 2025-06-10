@@ -1,4 +1,4 @@
-package spring.openfeign.spotify.spotify.client;
+package spring.openfeign.spotify.spotify.client.album_track;
 
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
-public class AlbumReponse {
-
-    private AlbumWrapper albums;
+public class ArtistTrack {
+    private String id;
+    private String name;
 }

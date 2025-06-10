@@ -1,4 +1,4 @@
-package spring.openfeign.spotify.spotify.client;
+package spring.openfeign.spotify.spotify.client.login;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;

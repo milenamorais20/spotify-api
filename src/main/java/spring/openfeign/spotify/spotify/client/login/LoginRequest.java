@@ -1,4 +1,4 @@
-package spring.openfeign.spotify.spotify.client;
+package spring.openfeign.spotify.spotify.client.login;
 
 
 import feign.form.FormProperty;

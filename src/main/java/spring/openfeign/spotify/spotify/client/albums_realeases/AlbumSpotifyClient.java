@@ -1,4 +1,4 @@
-package spring.openfeign.spotify.spotify.client;
+package spring.openfeign.spotify.spotify.client.albums_realeases;
 
 
 import org.springframework.cloud.openfeign.FeignClient;
